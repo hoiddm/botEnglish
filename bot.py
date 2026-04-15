@@ -26,7 +26,7 @@ async def send_flashcard():
         await asyncio.sleep(5)
         await bot.send_message(chat_id=CHAT_ID, text=f"→ {meaning}")
 
-        await asyncio.sleep(300)
+        await asyncio.sleep(900)
         index = (index + 1) % len(words)
 
 asyncio.run(send_flashcard())
