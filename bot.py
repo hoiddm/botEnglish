@@ -4,8 +4,8 @@ import os
 from telegram import Bot
 
 # 👉 lấy từ Railway ENV
-TOKEN = os.getenv("TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+TOKEN = "8641487834:AAGG79GrPhd2ctEMPzu8yeg-zU2NMM2g5u8"
+CHAT_ID = "7197704150"
 
 # đọc file từ vựng
 with open("words.txt", "r", encoding="utf-8") as f:
