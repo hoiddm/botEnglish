@@ -1,6 +1,6 @@
-delamination | dɪˌlæmɪˈneɪʃən | sự tách lớp
-degradation | ˌdɛɡrəˈdeɪʃən | sự suy giảm, xuống cấp
-faint | feɪnt | mờ, yếu
-relevant | ˈrɛləvənt | liên quan
-defective | dɪˈfɛktɪv | bị lỗi, khiếm khuyết
-instruct | ɪnˈstrʌkt | hướng dẫn
+delamination | dɪˌlæmɪˈneɪʃən | The engineer detected delamination in the material after long-term use.
+degradation | ˌdɛɡrəˈdeɪʃən | The system shows degradation in performance over time.
+faint | feɪnt | There is a faint signal on the display that is hard to see.
+relevant | ˈrɛləvənt | Please provide relevant information for troubleshooting.
+defective | dɪˈfɛktɪv | The device was returned because it is defective.
+instruct | ɪnˈstrʌkt | The technician will instruct the user on how to operate the system.
