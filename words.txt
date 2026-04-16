@@ -4,3 +4,4 @@ faint | feɪnt | There is a faint signal on the display that is hard to see.
 relevant | ˈrɛləvənt | Please provide relevant information for troubleshooting.
 defective | dɪˈfɛktɪv | The device was returned because it is defective.
 instruct | ɪnˈstrʌkt | The technician will instruct the user on how to operate the system.
+regulator | ˈrɛɡjəˌleɪtər | The regulator controls the pressure in the system to ensure stable operation.
